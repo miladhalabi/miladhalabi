@@ -60,13 +60,10 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miladhalabi&cache_seconds=1800" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladhalabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/miladhalabi/miladhalabi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/miladhalabi/miladhalabi/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
