@@ -22,6 +22,7 @@ I am a **Full-Stack & Embedded Systems Engineer** with extensive experience arch
 
 ---
 
+
 ### 🛠️ Tech Stack & Capabilities
 
 #### 💻 Programming Languages
@@ -39,7 +40,7 @@ I am a **Full-Stack & Embedded Systems Engineer** with extensive experience arch
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
 </div>
 
-#### ⚡ Embedded Systems, IoT & Hardware
+#### ⚡ Embedded Systems & Hardware
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
   <img width="8" />
@@ -52,11 +53,9 @@ I am a **Full-Stack & Embedded Systems Engineer** with extensive experience arch
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" height="40" alt="FreeRTOS" />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/stmicroelectronics/03234C" height="40" alt="STM32" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" />
 </div>
 
-#### 🌐 Full-Stack Web, Mobile & Backend
+#### 🌐 Web Engineering & Backend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="8" />
@@ -66,17 +65,27 @@ I am a **Full-Stack & Embedded Systems Engineer** with extensive experience arch
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
   <img width="8" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="Socket.io" />
+</div>
+
+#### 📱 Mobile Development
+<div align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React Native" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="Ionic" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="Android" />
+</div>
+
+#### 🗄️ Databases & Storage
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="Ionic" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="Socket.io" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="Android" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" />
 </div>
 
 ---
